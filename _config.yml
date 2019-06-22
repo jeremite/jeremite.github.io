@@ -4,9 +4,9 @@ bio:                "Data Scientist. Rubik's Cube Enthusiast ;)"
 description:        " "
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/profile.jpg'
+logo:               'assets/img/Weixing-profile.jpg'
 #logo:               'assets/img/22.jpg'
-background:         'assets/img/tokyo-tower_.jpg'
+background:         'assets/img/aleks-dorohovich-26-unsplash.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://jeremite.github.io
