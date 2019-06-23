@@ -6,9 +6,9 @@ comments: false
 ---
 
 
-### ACHIEVEMENTS
+# ACHIEVEMENTS
 ## CAPSTONE PROJECT
-# Ferguson Enterprise | Multi-Channel Attribution Model, Attention RNN
+### Ferguson Enterprise | Multi-Channel Attribution Model, Attention RNN
 * Processed 550,000 customer data about their interactions with the website and built model to predict customer
 conversion (purchase) rate and attribute values to each step along customer digital journey.
 * Achieved 96% accuracy and 0.99 AUC score on predicting customer conversion by creating a state-of-the art Multi-
