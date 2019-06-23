@@ -6,24 +6,18 @@ comments: false
 ---
 
 
-# ACHIEVEMENTS
-## CAPSTONE PROJECT
-### Ferguson Enterprise | Multi-Channel Attribution Model, Attention RNN
-* Processed 550,000 customer data about their interactions with the website and built model to predict customer
-conversion (purchase) rate and attribute values to each step along customer digital journey.
-* Achieved 96% accuracy and 0.99 AUC score on predicting customer conversion by creating a state-of-the art Multi-
-Channel Attribution Model; and assigned credits to different customer channels using the trained model.
-* The model merged Attention + LSTM (deal with sequential channel data) and Embedding FNN (process consumer
-behavioral and demographic data). The revised softmax function took time decay effects into consideration.
-* The model can be easily transferred into Wide & Deep product recommendation system.                                     
-  Business Analyst, Practicum Project
-* EBAY | Customer Analytics(CAC)                                     
-  CRM Business Analyst
-* NIKE | Digital Analytics                                     
-  Data Analytics Intern
-* CONVERSE | Retail Planning                                     
-  Operations Intern
+## EDUCATION
+* William and Mary | MS in Business Analytics | 2018.8 - 2019.5                                     
+  1. GPA:3.95/4; Top 1 in machine learning course; Awarded school "Community Contributor".<br>
+  2. Courses included: Big Data, Machine Learning, AI, Optimization, Data Visualization
+* University of Strathclyde | MS in Marketing | 2013.8 - 2014.6                                     
+  Specialized in Customer Management
+* UCSC Sillicon Valley Extension | Certificate in Data Analytics and Database Management | 2017.9 - 2018.5  
+* Stanford University | Graduate Certificate in Data Mining and Applications | ongoing                                     
+    
 
-## MORE LIFE
+## CERTIFICATIONS
+* Coursera.com certificates: Deep Learning Specialization (5 courses, taught by Andrew Ng)
+
 * I like hiking and photography! Me at Big Basin:
 ![1](https://raw.githubusercontent.com/lmei33/lmei33.github.io/master/assets/img/hiking.jpg) 
