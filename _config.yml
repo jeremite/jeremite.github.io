@@ -6,7 +6,7 @@ reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/Wei_profile.jpg'
 #logo:               'assets/img/22.jpg'
-background:         'assets/img/arnold-francisca-1508180-unsplash.jpg'
+background:         'assets/img/back.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://jeremite.github.io
