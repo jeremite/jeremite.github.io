@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Attrition Analysis"
-date:   2019-02-20
+date:   2019-03-20
 excerpt: "A project to predict employee attrition and identify influential factors to reduce employee attrition."
 project: true
 tag:
