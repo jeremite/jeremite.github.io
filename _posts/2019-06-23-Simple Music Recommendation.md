@@ -1,6 +1,21 @@
+---
+layout: post
+title:  "Music Recommendation Model"
+date:   2019-06-24
+excerpt: "Collaborative filtering recommendations based on Cosine-Similarity Algorithm"
+project: true
+tag:
+- RecommendationSystem 
+- CollaborativeFiltering
+- Cosine-Similarity
+- Python
+- Pandas
+comments: true
+---
+
 ## Overview
 For this project, I am employing the Collaborative Filtering technique (Cosine Similarity Algorithm) to recommend new songs 
-to a user based on the song he is listening right now or listened before. 
+to a user based on the song he is listening right now or listened before. <br>
 The challenges include: Process JSON data; Transform the data into the right format (model input data, item-user matrix) 
 
 ## Data Explorations
