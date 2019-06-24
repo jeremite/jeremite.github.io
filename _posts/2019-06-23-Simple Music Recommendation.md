@@ -19,9 +19,9 @@ to a user based on the song he is listening right now or listened before. <br>
 The challenges include: Process JSON data; Transform the data into the right format (model input data, item-user matrix) 
 
 ## Data Explorations
-  **1. Read Data and Look at basice information** <br>
+  **1. Read Data and Look at basice information** 
   It's quite easy to turn the JSON format data into Pandas DataFrame. I wrote a function to do that, and set index, transfering the date data into Pandas DateTime format.
-<br />
+
 
 ### 
     def load_data():
@@ -60,14 +60,17 @@ To build a matrix with each song's vectore being each row, I resort to Counter()
 ![Item-User matrix](https://github.com/jeremite/jeremite.github.io/blob/master/assets/img/Post/rec_3.png?raw=true) 
 
 There are two ways I tried to make the above matrix: the first one is using the *Counter()* function from the **collections** pachage; the other one is utilizing the pandas' *crosstab* function. The realizations are listed below:
+
 ###
     # Counter() method
     def count_user(df):
         return pd.Series(Counter(df.user_id))
     song_matrix= data.groupby('song_played').apply(count_user).unstack(fill_value=0)
+    
 ###
     # crosstab() method
     pd.crosstab(data['song_played'],data['user_id'],margins=False)
+    
     
 **2. Cosine Similarity**
 For this case, I used Cosine Similarity to find the 'closeness' between two songs by calculating their intersection angle. 
@@ -81,6 +84,7 @@ It has been widely used to get the similarity between Vectors and it is simple t
     
 ## Application
 Find the top 10 recommended songs for a user who is listening the song *'A Day In The Life'*
+
 ###
     def rec(df,song,k):
         rec_df = df[song].sort_values(ascending=False)[1:k+1].reset_index()
