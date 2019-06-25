@@ -38,6 +38,5 @@ For more details on what I've done, or more about my background, please click th
 <img src="https://github.com/jeremite/jeremite.github.io/blob/master/assets/img/Post/c00.png?raw=true">
 
 ## OTHERS
-<img src="https://github.com/jeremite/jeremite.github.io/blob/master/assets/img/Post/p0.png?raw=true">
-<img src="https://github.com/jeremite/jeremite.github.io/blob/master/assets/img/Post/p00.png?raw=true">
+<img height="500" alt="" width="500" src="https://github.com/jeremite/jeremite.github.io/blob/master/assets/img/Post/p10.png?raw=true">
 
