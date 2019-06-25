@@ -15,7 +15,7 @@ I am in the Third Wave of Coffee Movement, so I love Manual Brewing: <br>
 I love traveling, taking in different cultures <br>
 ...... <br>
 
-But, **I love data the most**.
+**But, I love data the most**.
 
 I am holding Master degrees both in Marketing and Business Analytics <br>
 As a result, I position myself as a Data Scientist with strong Business Acumen <br>
@@ -26,9 +26,9 @@ I never stop learning, always trying to keep up with the state-of-the-art modeli
 What motivates me a lot? To be able to influence the Society with data<br>
 
 For more details on what I've done, or more about my background, please click through the links:<br>
-[MY POSTS](https://medium.com/@wli10)<br>
+**[MY POSTS](https://medium.com/@wli10)<br>
 [MY PROJECTS](https://jeremite.github.io/projects)<br>
-[MY RESUME](https://github.com/jeremite/jeremite.github.io/blob/master/assets/img/Resume_WeixingLi_D.S..pdf)
+[MY RESUME](https://github.com/jeremite/jeremite.github.io/blob/master/assets/img/Resume_WeixingLi_D.S..pdf)**
 
 
 ## RELEVANT CERTIFICATES
