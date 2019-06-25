@@ -15,7 +15,7 @@ comments: true
 ![shots distribution](https://github.com/jeremite/jeremite.github.io/blob/master/assets/img/Post/curry1.png?raw=true) 
 
 CLICK HERE:
-[Colab Notebook Version](https://github.com/jeremite/curry_shot/blob/master/Curry_shoot_recommendation.ipynb)
+[Colab Notebook Version](https://github.com/jeremite/curry_shot/blob/master/Curry_shoot_recommendation.ipynb)<br>
 CLICK HERE:
 [Medium Blog for Coding](https://medium.com/deep-learning-construction/neural-network-build-from-scratch-without-frameworks-1-302dcfb46127)
 
