@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "StephenCurry Shot Prediction"
-date:   2019-06-23
+date:   2019-02-11
 excerpt: "Coding an ANN model from scratch used to predict a shot by Stephen as sucess or not"
 project: true
 tag:
