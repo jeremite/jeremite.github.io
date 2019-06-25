@@ -12,7 +12,7 @@ I love Rubik's Cube, I could solve 3\*3 (within 30 seconds), 4\*4, 5\*5, 6\*6. <
 Every week I spend at least 4-6 hours on it. <br>
 I am in the Third Wave of Coffee Movement, so I love Manual Brewing: <br>
 "Pour-over, Chemex, Siphon Brewing, etc". I even got a Certificate for that. <br>
-I love traveling, taking in different culture <br>
+I love traveling, taking in different cultures <br>
 ...... <br>
 
 But, **I love data the most**.
