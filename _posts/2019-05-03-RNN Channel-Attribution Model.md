@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Attention-RNN Channel-Attribution Model"
-date:   2019-06-22
+date:   2019-05-03
 excerpt: "An integrated Neural Network for Sequential Channel Path and Customer Profile Data"
 project: true
 tag:
