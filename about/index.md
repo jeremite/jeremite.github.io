@@ -39,3 +39,5 @@ For more details on what I've done, or more about my background, please click th
 
 ## OTHERS
 <img src="https://github.com/jeremite/jeremite.github.io/blob/master/assets/img/Post/p0.png?raw=true">
+<img src="https://github.com/jeremite/jeremite.github.io/blob/master/assets/img/Post/p00.png?raw=true">
+
