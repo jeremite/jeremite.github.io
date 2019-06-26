@@ -2,7 +2,7 @@
 layout: post
 title:  "Face Detection and Recognition Model"
 date:   2019-04-29
-excerpt: "A live-streaming face detection and recognition model"
+excerpt: "A live-streaming face detection and recognition model; and a Voice triggering model"
 project: true
 tag:
 - CNN
