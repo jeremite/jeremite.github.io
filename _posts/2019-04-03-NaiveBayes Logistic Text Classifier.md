@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NaiveBayes Logistic Text Classifier"
+title:  "NLP - Text Classifier"
 date:   2019-04-23
 excerpt: "A combined model used to classify a submitted question as sincere or insincere"
 project: true
