@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Music Recommendation Model"
-date:   2019-06-24
+date:   2019-03-23
 excerpt: "Collaborative filtering recommendations based on Cosine-Similarity Algorithm"
 project: true
 tag:
