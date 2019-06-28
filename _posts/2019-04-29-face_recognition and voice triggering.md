@@ -14,7 +14,7 @@ comments: true
 ---
 
 CLICK HERE:
-[Colab Notebook Version](https://github.com/jeremite/Roll_Call_AI/blob/master/AI_rollCall1005.ipynb)
+[Notebook Version](https://github.com/jeremite/Roll_Call_AI/blob/master/AI_rollCall1005.ipynb)
 
 
 
