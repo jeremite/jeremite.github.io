@@ -3,7 +3,7 @@ layout: post
 title:  "Coding_Neural_Network_s1"
 date:   2019-03-01
 excerpt: "Coding a fully connected neural network "
-project: true
+#project: true
 tag:
 - neural network
 - back propagation
