@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NLP - Text classification"
-date:   2019-04-10
+date:   2019-02-01
 excerpt: "Explore a combination of the machine learning models to deal with NLP problem"
 #project: true
 tag:
