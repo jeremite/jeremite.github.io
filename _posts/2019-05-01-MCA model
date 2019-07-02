@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Multi-Channel Attribution Model"
+date:   2019-05-01
+excerpt: "Coding a fully connected neural network "
+project: true
+tag:
+- Multi-Channel Attribution
+- Marketing
+- RNN
+- Attention technique
+- LSTM
+- Embedding layer
+comments: true
+---
+
+A model is informed by real word data and reaches a great performance on predicting the conversion rate.<br>
+Besides, it's also able to assign weights to different marketing channels.
+
+CLICK HERE:
+[Full Medium Blog](https://medium.com/@wli10/how-to-implement-an-attention-rnn-into-solving-the-multi-channel-attribution-problem-6fa90d935859)
