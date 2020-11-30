@@ -39,7 +39,7 @@ For more details on what I've done, or more about my background, please click th
 * UCSC Silicon Valley: Data Analytics and Database Management
 * Coursera.com certificates: Deep Learning Specialization (5 courses, taught by Andrew Ng)
 
-<img src="https://github.com/jeremite/jeremite.github.io/blob/master/assets/img/Post/certificates.png?raw=true">
+<img src="https://github.com/jeremite/jeremite.github.io/blob/master/assets/img/Post/certificates_new.png?raw=true">
 
 ## OTHERS
 <img height="500" alt="" width="500" src="https://github.com/jeremite/jeremite.github.io/blob/master/assets/img/Post/p10.png?raw=true">

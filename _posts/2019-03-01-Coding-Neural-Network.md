@@ -13,7 +13,7 @@ tag:
 comments: true
 ---
 
-For thsi blog, I coded a Fully-Connected Neural Network from scrath, including forward and backward propagation, adam optimizer, he initializer and so forth.<br>
+For this blog, I coded a Fully-Connected Neural Network from scratch, including forward and backward propagation, adam optimizer, he initializer and so forth.<br>
 Please check it out.
 
 CLICK HERE:
