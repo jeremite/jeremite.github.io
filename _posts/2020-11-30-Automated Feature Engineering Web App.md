@@ -16,7 +16,7 @@ CLICK HERE:
 [Code repo](https://github.com/jeremite/auto-feature)
 
 CLICK HERE:
-[Full Medium Blog](https://medium.com/@wli10/)
+[Full Medium Blog](https://jeremite.medium.com/automated-feature-engineering-web-app-using-flask-mongodb-docker-and-make-it-python-installable-6cb37387dec6)
 
 
 ## Overview
